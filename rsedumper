@@ -28,7 +28,7 @@ function banner() {
     echo "#More information: https://www.remotesyslog.com  #"
     echo "#Remote Syslog dumper for Elasticsearch          #"
     echo "#Version: RSEDUMPER 0.1                          #"
-    echo "#URL: https://github.com/tslenter/rseview        #"
+    echo "#URL: https://github.com/tslenter/RSEDUMPER      #"
     echo "#Donation: https://github.com/tslenter/RS        #"
     echo "##################################################"
     echo ""
